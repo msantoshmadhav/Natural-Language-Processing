@@ -4,4 +4,5 @@ This is my personal repository for sharing few NLP based projects that I have do
 # Projects
 1. Named Entity Recognition 
 
-# Steps
+# Steps to create NER MOdel
+
